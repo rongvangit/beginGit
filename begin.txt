@@ -1,1 +1,8 @@
 this is begin github
+1. git init
+2. git add . // add all
+3. git add index.html // add 1 file
+4. git commit -m "ten message"
+5. git branch -r // hien tat ca cac nhanh
+6. git checkout <branch name> //chon 1 branh
+7. git pust
