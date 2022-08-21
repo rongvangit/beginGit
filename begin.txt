@@ -1,1 +1,2 @@
 this is begin github
+1. git init
