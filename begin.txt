@@ -5,4 +5,6 @@ this is begin github
 4. git commit -m "ten message"
 5. git branch -r // hien tat ca cac nhanh
 6. git checkout <branch name> //chon 1 branh
-7. git pust
+   + Add new branch dev01
+   + Add branch 02
+7. git push
