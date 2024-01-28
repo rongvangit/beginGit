@@ -7,4 +7,13 @@ this is begin github
 6. git checkout <branch name> //chon 1 branh
    + Add new branch dev01
    + Add branch 02
-7. git push
+7. Remove Branch
+  + git branch -d <BRANCH-NAME>
+8. git push -u origin <BRANCH-NAME>
+9. Khi muon revert lai cac commit.
+  + git reflog // xem log cac commit
+  + git reset --h <hash-code> //
+    OR 
+    $ git checkout HEAD <filename>
+    OR
+    $ git revert
