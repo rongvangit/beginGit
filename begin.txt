@@ -1,6 +1,8 @@
 this is begin github
 1. git init
-2. git add . // add all
+   Can thiet phai thiet lap remote
+   → git remote add origin [repo-url]
+2. git add . // add all file or file changed.
 3. git add index.html // add 1 file
 4. git commit -m "ten message"
 5. git branch -r // hien tat ca cac nhanh
